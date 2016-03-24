@@ -1,0 +1,57 @@
+Sun Dec 28 11:21:34 PM Pacific Standard Time 2014
+Trace back: too many nested evaluations (infinite loop?)
+    ("vertical" arm line 1)
+    invoked from within
+"switch -- $_orient {
+		vertical {
+			::set height [winfo height $itk_component(mapCanvas)]
+			::set mapheight [expr {$height - ($_mapborder * 2) - ($m..."
+    (object "::.main_pane.wave.interior.cs.body.pw.wf.grid.row0,ysb.scrollbar" method "::mtiwidgets::Mapscrollbar::_map-resize" body line 5)
+    invoked from within
+"::.main_pane.wave.interior.cs.body.pw.wf.grid.row0,ysb.scrollbar _map-resize 0 1"
+    (in namespace inscope "::mtiwidgets::Mapscrollbar" script line 1)
+    invoked from within
+"namespace inscope ::mtiwidgets::Mapscrollbar {::.main_pane.wave.interior.cs.body.pw.wf.grid.row0,ysb.scrollbar _map-resize} 0 1"
+  <2: ::tkerror {too many nested evaluations (infinite loop?)}
+  <1: ::bgerror {too many nested evaluations (infinite loop?)}
+Sun Dec 28 11:22:04 PM Pacific Standard Time 2014
+Trace back: too many nested evaluations (infinite loop?)
+    ("horizontal" arm line 1)
+    invoked from within
+"switch -- $_orient {
+		vertical {
+			::set height [winfo height $itk_component(mapCanvas)]
+			::set mapheight [expr {$height - ($_mapborder * 2) - ($m..."
+    (object "::.main_pane.wave.interior.cs.body.pw.wf.grid.xsb,wave.scrollbar" method "::mtiwidgets::Mapscrollbar::_map-resize" body line 5)
+    invoked from within
+"::.main_pane.wave.interior.cs.body.pw.wf.grid.xsb,wave.scrollbar _map-resize 0 1"
+    (in namespace inscope "::mtiwidgets::Mapscrollbar" script line 1)
+    invoked from within
+"namespace inscope ::mtiwidgets::Mapscrollbar {::.main_pane.wave.interior.cs.body.pw.wf.grid.xsb,wave.scrollbar _map-resize} 0 1"
+  <2: ::tkerror {too many nested evaluations (infinite loop?)}
+  <1: ::bgerror {too many nested evaluations (infinite loop?)}
+Sun Jan 04 4:00:27 PM Pacific Standard Time 2015
+Trace back: invalid command name ""
+    while executing
+"$tree expandeditems -worm"
+    (procedure "_resetTree" line 7)
+    invoked from within
+"_resetTree $w"
+    (procedure "QObjects::sort" line 4)
+    invoked from within
+"QObjects::sort .main_pane.objects 0 ascending"
+    ("eval" body line 1)
+    invoked from within
+"eval $itk_option(-sortcommand) $column $dir"
+    (object "::.main_pane.objects.interior.cs.body.tree" method "::vsimwidgets::Hierarchy::sort" body line 26)
+    invoked from within
+"sort $sortIdx $dir"
+    (object "::.main_pane.objects.interior.cs.body.tree" method "::vsimwidgets::Hierarchy::_initializeSortColumn" body line 10)
+    invoked from within
+"::.main_pane.objects.interior.cs.body.tree _initializeSortColumn"
+    (in namespace inscope "::vsimwidgets::Hierarchy" script line 1)
+    invoked from within
+"namespace inscope ::vsimwidgets::Hierarchy {::.main_pane.objects.interior.cs.body.tree _initializeSortColumn}"
+    ("after" script)
+  <2: ::tkerror {invalid command name ""}
+  <1: ::bgerror {invalid command name ""}

@@ -1,0 +1,9 @@
+Info (10281): Verilog HDL Declaration information at ft_245_state_machine.v(67): object "WRITE_COMPLETE" differs only in case from object "write_complete" in the same scope
+Warning (10273): Verilog HDL warning at EPT_4CE6_AF_D1_Top.v(247): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at EPT_4CE6_AF_D1_Top.v(248): extended using "x" or "z"
+Warning (10268): Verilog HDL information at EPT_4CE6_AF_D1_Top.v(290): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at EPT_4CE6_AF_D1_Top.v(325): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at EPT_4CE6_AF_D1_Top.v(655): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at EPT_4CE6_AF_D1_Top.v(726): always construct contains both blocking and non-blocking assignments
+Info (10281): Verilog HDL Declaration information at EPT_4CE6_AF_D1_Top.v(51): object "RESET" differs only in case from object "reset" in the same scope
+Info (10281): Verilog HDL Declaration information at EPT_4CE6_AF_D1_Top.v(104): object "RANDOM_NUMBER" differs only in case from object "random_number" in the same scope

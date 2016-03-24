@@ -1,0 +1,641 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Jolly\Code_FPGA\EPT_Active_Transfer_Simulation\EPT_4CE6_AF_I2C_Master\ModelSim
+vactive_block
+Z1 !s100 3[2;`Hd[OA:U4EM[CRTJI3
+Z2 IjLe[nGkFUJIGce>CVL7dF2
+Z3 V>>@IKSCN?`eeB1kYU>;>43
+Z4 dC:\Jolly\Code_FPGA\EPT_Active_Transfer_Simulation\EPT_4CE6_AF_Active_Transfer\ModelSim
+Z5 w1444337680
+Z6 8C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/sim/active_block.v
+Z7 FC:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/sim/active_block.v
+L0 19
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 +define+SIM|-reportprogress|300|-work|work|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/sim/active_block.v|
+Z10 o-work work -O0
+Z11 !s92 +define+SIM -work work -O0
+Z12 !s108 1444339942.324000
+Z13 !s107 ../sim/define.v|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/sim/active_block.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vactive_control_register
+Z14 !s100 :=MGd[dnU4JcLGADIP3oZ1
+Z15 IzYE_Gf4e^URj<cgjzSkLU3
+Z16 V^2GGOW@l4d510Eh>WYK8>3
+R4
+Z17 w1377329688
+Z18 8C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/sim/active_control_register.v
+Z19 FC:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/sim/active_control_register.v
+L0 12
+R8
+r1
+31
+Z20 !s90 +define+SIM|-reportprogress|300|-work|work|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/sim/active_control_register.v|
+R10
+R11
+Z21 !s108 1444339941.095000
+Z22 !s107 C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/sim/active_control_register.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vactive_transfer
+Z23 !s100 :TOa4RLh[_a8OPBYHdMX^1
+Z24 IK;iPX0mnoFg=AfOPF`9QI1
+Z25 Vb`[?><BPXR1giSV5X;XIZ3
+R4
+Z26 w1444337697
+Z27 8C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/sim/active_transfer.v
+Z28 FC:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/sim/active_transfer.v
+L0 13
+R8
+r1
+31
+Z29 !s90 +define+SIM|-reportprogress|300|-work|work|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/sim/active_transfer.v|
+R10
+R11
+Z30 !s108 1444339942.083000
+Z31 !s107 ../sim/define.v|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/sim/active_transfer.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vactive_transfer_library
+Z32 !s100 EbHKT^cRI21jcaK5TPf>>0
+Z33 IKZCc2Ho[g?bWN6b:E;<n[3
+Z34 VY2>EiZHC?AzRbSaiAVi^_1
+R4
+Z35 w1444339213
+Z36 8C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/sim/active_transfer_library.v
+Z37 FC:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/sim/active_transfer_library.v
+L0 37
+R8
+r1
+31
+Z38 !s90 +define+SIM|-reportprogress|300|-work|work|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/sim/active_transfer_library.v|
+R10
+R11
+Z39 !s108 1444339941.279000
+Z40 !s107 ../sim/define.v|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/sim/active_transfer_library.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vactive_transfer_library_sim
+Z41 !s100 6<5RU3JLUW1WQhnmU>UPn0
+Z42 INSZ8Z65olIS57F?iJh`:k3
+Z43 Vc;QOeQk6_U1LK3oNQ8W251
+R4
+Z44 w1444337708
+Z45 8C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/sim/active_transfer_library_sim.v
+Z46 FC:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/sim/active_transfer_library_sim.v
+L0 37
+R8
+r1
+31
+Z47 !s90 +define+SIM|-reportprogress|300|-work|work|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/sim/active_transfer_library_sim.v|
+R10
+R11
+Z48 !s108 1444339121.821000
+Z49 !s107 ../sim/define.v|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/sim/active_transfer_library_sim.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vactive_trigger
+Z50 !s100 4U6gmN9RcMT2mXAARM?B93
+Z51 I]o:nI5:>b6jYEZQzjOP;d2
+Z52 VG_QE3@=]HB?Uz`>aLX0d_0
+R4
+Z53 w1444337717
+Z54 8C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/sim/active_trigger.v
+Z55 FC:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/sim/active_trigger.v
+L0 13
+R8
+r1
+31
+Z56 !s90 +define+SIM|-reportprogress|300|-work|work|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/sim/active_trigger.v|
+R10
+R11
+Z57 !s108 1444339941.896000
+Z58 !s107 ../sim/define.v|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/sim/active_trigger.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vendpoint_registers
+Z59 IMe3MbeflR0C4Y6UlZZgUI3
+Z60 VDH:>5JGjD<mJ;Ui=@dlX20
+Z61 dC:\Jolly\Code_FPGA\EPT_Active_Transfer_Simulation\EPT_4CE6_AF_I2C_Master\ModelSim
+Z62 w1359015485
+Z63 8C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/endpoint_registers.v
+Z64 FC:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/endpoint_registers.v
+L0 15
+R8
+r1
+31
+R10
+Z65 !s100 m`KDb_Y8fbV[mBQ3EYXE01
+Z66 !s108 1440052500.697000
+Z67 !s107 ../src/tb_define.v|../src/define.v|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/endpoint_registers.v|
+Z68 !s90 -reportprogress|30|-work|work|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/endpoint_registers.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vEPT_4CE6_AF_D1_Top
+Z69 !s100 5eLnhO;QngN76?oeTb^FP2
+Z70 I<hUI`=8iR893l]H[CJ;5@0
+Z71 V_>Z0XMN928K53l:Sa68ER1
+R4
+Z72 w1444339896
+Z73 8C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/src/EPT_4CE6_AF_D1_Top.v
+Z74 FC:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/src/EPT_4CE6_AF_D1_Top.v
+L0 33
+R8
+r1
+31
+Z75 !s90 +define+SIM|-reportprogress|300|-work|work|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/src/EPT_4CE6_AF_D1_Top.v|
+R10
+R11
+Z76 n@e@p@t_4@c@e6_@a@f_@d1_@top
+Z77 !s108 1444339940.170000
+Z78 !s107 C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/src/EPT_4CE6_AF_D1_Top.v|
+!i10b 1
+!s85 0
+!s101 -O0
+veptWireOR
+Z79 !s100 B8?:YGe;kNeVPmffNFiG61
+Z80 Ih:BFOVk]9jH?K@>]dn=zS2
+Z81 VWidm:n`@RbbU`eHW]1<FY3
+R4
+Z82 w1441762820
+Z83 8C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/sim/eptWireOR.v
+Z84 FC:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/sim/eptWireOR.v
+L0 32
+R8
+r1
+31
+Z85 !s90 +define+SIM|-reportprogress|300|-work|work|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/sim/eptWireOR.v|
+R10
+R11
+Z86 nept@wire@o@r
+Z87 !s108 1444339941.567000
+Z88 !s107 C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/sim/eptWireOR.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vfifo_4x16
+Z89 !s100 2ji05S]3dZjDNIlC^Tbij1
+Z90 IScffHW5a;UMJm_jc7a9`j2
+Z91 VN2bEVU5i6hdPi=^oWPP7[1
+R61
+Z92 w1230319242
+Z93 8C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/fifo_4x16.v
+Z94 FC:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/fifo_4x16.v
+L0 38
+R8
+r1
+31
+R10
+R11
+Z95 !s108 1440139216.930000
+Z96 !s107 C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/fifo_4x16.v|
+Z97 !s90 +define+SIM|-reportprogress|300|-work|work|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/fifo_4x16.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vfifo_4x16_model
+Z98 Id;BGCKCl5m:j8:zfSBR8g2
+Z99 V;1NY5R2^a8lCYDcT5nc=L1
+R61
+Z100 w1230312416
+Z101 8C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/test/fifo_4x16_model.v
+Z102 FC:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/test/fifo_4x16_model.v
+L0 38
+R8
+r1
+31
+R10
+R11
+Z103 !s100 k`=MzHKOaAjM_hg5f7h=l2
+Z104 !s108 1440139219.349000
+Z105 !s107 C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/test/fifo_4x16_model.v|
+Z106 !s90 +define+SIM|-reportprogress|300|-work|work|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/test/fifo_4x16_model.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vflipflop
+Z107 !s100 be]H6iKHAPY8<@l0S7NNI1
+Z108 IbFQ=ECTHH:1MjUO8OEU>K3
+Z109 VJ]diG5bS8ADf=JVCo_3N=2
+R4
+Z110 w1373324110
+Z111 8C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/src/flipflop.v
+Z112 FC:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/src/flipflop.v
+L0 12
+R8
+r1
+31
+Z113 !s90 +define+SIM|-reportprogress|300|-work|work|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/src/flipflop.v|
+R10
+R11
+Z114 !s108 1444339940.893000
+Z115 !s107 C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/src/flipflop.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vft_245_state_machine
+Z116 INQcbB?W8b^M1_Ef1onSzb1
+Z117 V33aYQIbBC7T8LSiz86[lz3
+R61
+Z118 w1349418666
+Z119 8C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/ft_245_state_machine.v
+Z120 FC:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/ft_245_state_machine.v
+L0 15
+R8
+r1
+31
+R10
+Z121 !s100 YBHPU7iDf^k6Y`bXGlJWK1
+Z122 !s108 1440052502.735000
+Z123 !s107 ../src/tb_define.v|../src/define.v|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/ft_245_state_machine.v|
+Z124 !s90 -reportprogress|30|-work|work|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/ft_245_state_machine.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vhost_ft245_model
+Z125 !s100 f4KQ=Q^zhoHgM3A1QzY`z2
+Z126 I:TD[SlO8<Pe@_WYI=OPJE3
+Z127 V@98Q>n?EM0mV_il@an>N`3
+R4
+Z128 w1442294039
+Z129 8C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/test/host_ft245_model.v
+Z130 FC:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/test/host_ft245_model.v
+L0 14
+R8
+r1
+31
+Z131 !s90 +define+SIM|-reportprogress|300|-work|work|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/test/host_ft245_model.v|
+R10
+R11
+Z132 !s108 1444339942.600000
+Z133 !s107 C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/test/host_ft245_model.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vhost_ft245_model_read
+Z134 !s100 bbBNTA6Un?4UAC2>ZC4kI3
+Z135 IbSDHI^@?0JK9F@]zTBzOc0
+Z136 VMkh2G35<hMP6odP6Dl>0e2
+R4
+Z137 w1340088421
+Z138 8C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/test/host_ft245_model_read.v
+Z139 FC:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/test/host_ft245_model_read.v
+L0 18
+R8
+r1
+31
+Z140 !s90 +define+SIM|-reportprogress|300|-work|work|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/test/host_ft245_model_read.v|
+R10
+R11
+Z141 !s108 1444339942.840000
+Z142 !s107 C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/test/host_ft245_model_read.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vhost_ft245_model_write
+Z143 !s100 1ijl>QoAMi6F3^OcO<=Wn2
+Z144 I5ob:lBgaBi2gX41gBAXli0
+Z145 VRbZ[^Q7MnRSl^[;SJkhf`1
+R4
+Z146 w1341987915
+Z147 8C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/test/host_ft245_model_write.v
+Z148 FC:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/test/host_ft245_model_write.v
+L0 18
+R8
+r1
+31
+Z149 !s90 +define+SIM|-reportprogress|300|-work|work|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/test/host_ft245_model_write.v|
+R10
+R11
+!i10b 1
+!s85 0
+Z150 !s108 1444339943.089000
+Z151 !s107 C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/test/host_ft245_model_write.v|
+!s101 -O0
+vi2c_ack
+Z152 I[5:Y3dK`dg8JDim_M<CnI2
+Z153 V1M9P8F^bcEmPA3b8M=mNG3
+R61
+Z154 w1432682321
+Z155 8C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/i2c_ack.v
+Z156 FC:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/i2c_ack.v
+L0 31
+R8
+r1
+31
+R10
+R11
+Z157 !s100 S`Kfa<[WcncALn<U85jGM3
+Z158 !s108 1440139216.590000
+Z159 !s107 C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/i2c_ack.v|
+Z160 !s90 +define+SIM|-reportprogress|300|-work|work|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/i2c_ack.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vi2c_ack_model
+Z161 I3eGfB_b^@5>;UTeGE@Y1F0
+Z162 V[A3GDS0cYQO0c^GQe2oUX3
+R61
+Z163 w1420363496
+Z164 8C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/test/i2c_ack_model.v
+Z165 FC:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/test/i2c_ack_model.v
+L0 31
+R8
+r1
+31
+R10
+R11
+Z166 !s100 BB9dai1W@6T2]^SQQ]nhU3
+Z167 !s108 1440139220.662000
+Z168 !s107 C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/test/i2c_ack_model.v|
+Z169 !s90 +define+SIM|-reportprogress|300|-work|work|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/test/i2c_ack_model.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vi2c_receive
+Z170 IKY@zbkzC[GQQlV?_SW@aU3
+Z171 Voom^XiXYj>YF9gl6;=Kb82
+R61
+Z172 w1424062431
+Z173 8C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/i2c_receive.v
+Z174 FC:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/i2c_receive.v
+L0 30
+R8
+r1
+31
+R10
+R11
+Z175 !s100 4[2_K;c292SH[ikVR]7Cf0
+Z176 !s108 1440139215.922000
+Z177 !s107 C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/i2c_receive.v|
+Z178 !s90 +define+SIM|-reportprogress|300|-work|work|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/i2c_receive.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vi2c_slave_comms
+Z179 IZz2S6Q`EVGgSJ<h^Fdn9f1
+Z180 V[Go[0oXP<@?=SiLkh>;Jg0
+R61
+Z181 w1432688620
+Z182 8C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/i2c_slave_comms.v
+Z183 FC:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/i2c_slave_comms.v
+L0 28
+R8
+r1
+31
+R10
+R11
+Z184 !s100 F5nf_=PUnz_3eQ94azn]C3
+Z185 !s108 1440139216.223000
+Z186 !s107 C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/i2c_slave_comms.v|
+Z187 !s90 +define+SIM|-reportprogress|300|-work|work|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/i2c_slave_comms.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vi2c_transmit
+Z188 !s100 VBO[EDm;>6JdNnea9kzJO3
+Z189 IX?DZG0GCTS>6ReilRLj`b2
+Z190 VW@5Oh3j;EgQ;ENbLIEQEc3
+R61
+Z191 w1432680592
+Z192 8C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/i2c_transmit.v
+Z193 FC:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/i2c_transmit.v
+L0 27
+R8
+r1
+31
+R10
+R11
+Z194 !s108 1440139215.591000
+Z195 !s107 C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/i2c_transmit.v|
+Z196 !s90 +define+SIM|-reportprogress|300|-work|work|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/i2c_transmit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+viic_receive_model
+Z197 IWLkNW:GEHKhfDTmLFV57H1
+Z198 V@>AF5JzU78MhfW`dNBK>=3
+R61
+Z199 w1419305767
+Z200 8C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/test/iic_receive_model.v
+Z201 FC:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/test/iic_receive_model.v
+L0 56
+R8
+r1
+31
+R10
+R11
+Z202 !s100 Y=9Xe3c@EYn97CWgQ^U`g0
+Z203 !s108 1440139219.872000
+Z204 !s107 C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/test/iic_receive_model.v|
+Z205 !s90 +define+SIM|-reportprogress|300|-work|work|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/test/iic_receive_model.v|
+!i10b 1
+!s85 0
+!s101 -O0
+viic_transmit_model
+Z206 IGTGz;m7maRFnIG_]QYYIo3
+Z207 VU:A?mX;1[jijXVPhJXn3;0
+R61
+Z208 w1419107960
+Z209 8C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/test/iic_transmit_model.v
+Z210 FC:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/test/iic_transmit_model.v
+L0 36
+R8
+r1
+31
+R10
+R11
+Z211 !s100 >Xd24DL2nm>H@@DIcPmZF0
+Z212 !s108 1440139220.367000
+Z213 !s107 C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/test/iic_transmit_model.v|
+Z214 !s90 +define+SIM|-reportprogress|300|-work|work|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/test/iic_transmit_model.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vlfsr
+Z215 !s100 4S<ITZ5^4QI5?@3JH6e<73
+Z216 I1Tz=C`SLaSe6WKoMgg3^P1
+Z217 V5`>3646e9zP;H<?iLIIg>1
+R4
+Z218 w1373350450
+Z219 8C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/src/lfsr.v
+Z220 FC:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/src/lfsr.v
+L0 12
+R8
+r1
+31
+Z221 !s90 +define+SIM|-reportprogress|300|-work|work|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/src/lfsr.v|
+R10
+R11
+Z222 !s108 1444339940.480000
+Z223 !s107 C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/src/lfsr.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmem_array
+Z224 I^0`ZS6?P7gkT73TU_jC:e3
+Z225 V:TGASE@;TEI9oaW_j_=8G1
+R61
+Z226 w1328655912
+Z227 8C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/mem_array.v
+Z228 FC:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/mem_array.v
+L0 14
+R8
+r1
+31
+R10
+Z229 !s100 VLMUDh5JOXlMXVYC]Aa[E1
+Z230 !s108 1440052504.863000
+Z231 !s107 C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/mem_array.v|
+Z232 !s90 -reportprogress|30|-work|work|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/mem_array.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux
+Z233 !s100 6@CgQS^ZIb<ioL17S;7J?0
+Z234 I37j@I1zP=NLUH?gzl6e:K2
+Z235 VSCcOiXB?[`Vm0511B^Ddj1
+R4
+Z236 w1373323066
+Z237 8C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/src/mux.v
+Z238 FC:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/src/mux.v
+L0 12
+R8
+r1
+31
+Z239 !s90 +define+SIM|-reportprogress|300|-work|work|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/src/mux.v|
+R10
+R11
+Z240 !s108 1444339940.679000
+Z241 !s107 C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/src/mux.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vread_control_logic
+Z242 I33[cioDZRgJHB<Z1`igmY0
+Z243 VV[26;F`23kYhJMnBmAOi30
+R61
+Z244 w1385547395
+Z245 8C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/read_control_logic.v
+Z246 FC:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/read_control_logic.v
+L0 14
+R8
+r1
+31
+R10
+Z247 !s100 BlHSCGBe?PO7^IHmR16>]0
+Z248 !s108 1440052505.228000
+Z249 !s107 C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/read_control_logic.v|
+Z250 !s90 -reportprogress|30|-work|work|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/read_control_logic.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsensor_feedback_model
+Z251 IVPIR?Sa254Qh]dg[z@6N^3
+Z252 VHkRnN6jKlIUa=cjB7bUJF1
+R61
+Z253 w1420063689
+Z254 8C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/test/sensor_feedback_model.v
+Z255 FC:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/test/sensor_feedback_model.v
+L0 45
+R8
+r1
+31
+R10
+R11
+Z256 !s100 ^?L<0oebQ::U9[S@Y=@PA1
+Z257 !s108 1440139221.448000
+Z258 !s107 C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/test/sensor_feedback_model.v|
+Z259 !s90 +define+SIM|-reportprogress|300|-work|work|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/test/sensor_feedback_model.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vserial_iic_comms_model
+Z260 IT@z:Km8Ceo;TfiXc]k=@G1
+Z261 VV4XcM81jgXz1X6_fIC_@m3
+R61
+Z262 w1420422165
+Z263 8C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/test/serial_iic_comms_model.v
+Z264 FC:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/test/serial_iic_comms_model.v
+L0 28
+R8
+r1
+31
+R10
+R11
+Z265 !s100 ^S2bXccRjh1zYiOK4a;cD2
+Z266 !s108 1440139220.964000
+Z267 !s107 C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/test/serial_iic_comms_model.v|
+Z268 !s90 +define+SIM|-reportprogress|300|-work|work|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/test/serial_iic_comms_model.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsync_fifo
+Z269 Ij^Th<`zSHeSi5aCPfeNjS0
+Z270 VbS5RhOKbS][oNehKMJCMN0
+R61
+R244
+Z271 8C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/sync_fifo.v
+Z272 FC:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/sync_fifo.v
+L0 12
+R8
+r1
+31
+R10
+Z273 !s100 Nf@?9lKRa`W@J:m653I742
+Z274 !s108 1440052505.565000
+Z275 !s107 C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/sync_fifo.v|
+Z276 !s90 -reportprogress|30|-work|work|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/sync_fifo.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_ept_4ce6_top
+!i10b 1
+Z277 !s100 bVD`NVdeMBAFQYA>oagh;2
+Z278 Iz9[@>C>J9[5@QI=DCHE8c0
+Z279 VoO^Z`onAWg4_4N=XI90Wi0
+R4
+Z280 w1444338781
+Z281 8C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/Testbench/tb_ept_4ce6_top.v
+Z282 FC:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/Testbench/tb_ept_4ce6_top.v
+L0 27
+R8
+r1
+!s85 0
+31
+!s108 1444339943.346000
+!s107 ../Testbench/tb_define.v|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/Testbench/tb_ept_4ce6_top.v|
+Z283 !s90 +define+SIM|-reportprogress|300|-work|work|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_Active_Transfer/Testbench/tb_ept_4ce6_top.v|
+!s101 -O0
+R10
+R11
+vwrite_control_logic
+Z284 IA5FnJPLAWjS_f2Rg`[`1z0
+Z285 V;K10>]X]TD@@6m[k=zM`W0
+R61
+R244
+Z286 8C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/write_control_logic.v
+Z287 FC:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/write_control_logic.v
+L0 14
+R8
+r1
+31
+R10
+Z288 !s100 o]VE?SgBMNM<7=N?3AoL=3
+Z289 !s108 1440052506.036000
+Z290 !s107 C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/write_control_logic.v|
+Z291 !s90 -reportprogress|30|-work|work|C:/Jolly/Code_FPGA/EPT_Active_Transfer_Simulation/EPT_4CE6_AF_I2C_Master/src/write_control_logic.v|
+!i10b 1
+!s85 0
+!s101 -O0
